@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="28">
+    <g shape-rendering="crispEdges">
+        <rect width="90" height="28" fill="#555"/>
+        <rect x="90" width="90" height="28" fill="#C69C94"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold">
+        <text x="45" y="18" letter-spacing="1">LICENSE</text>
+        <text x="135" y="18" letter-spacing="1">+FONDUE</text>
+    </g>
+</svg>
